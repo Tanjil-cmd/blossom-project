@@ -67,7 +67,7 @@ export default function Footer() {
 
               <div className="flex gap-2 items-center">
                 <Mail size={16} />
-                <p>tanjil.bd44@gmail.com</p>
+                <p>tanjil@blossomtexbd.com</p>
               </div>
             </div>
           </div>

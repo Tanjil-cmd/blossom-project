@@ -85,23 +85,23 @@ export default function Navbar() {
       { name: "Men’s Suit", path: "/menSuit" },
       { name: "Men’s Uniform", path: "/menUniform" },
       { name: "Men’s polo shirt", path: "/menPoloShirt" },
-      { name: "men’s hoodie", path: "/menHoodie" },
-      { name: "men’s cap", path: "/menCap" },
+      { name: "Men’s hoodie", path: "/menHoodie" },
+      { name: "Men’s cap", path: "/menCap" },
     ],
 
     collumn_2: [
       { name: "Men’s pant", path: "/menPant" },
       { name: "Men’s workwear", path: "/menWorkwear" },
       { name: "Men’s tank top", path: "/MenTankTop" },
-      { name: "men’s sweat shirt", path: "/menSweatShirt" },
-      { name: "men’ underwear", path: "/menUnderwear" },
+      { name: "Men’s sweat shirt", path: "/menSweatShirt" },
+      { name: "Men’ underwear", path: "/menUnderwear" },
     ],
 
     collumn_3: [
       { name: "Men’s shirt", path: "/menShirt" },
       { name: "Men’s t-shirt", path: "/menT-shirt" },
       { name: "Men’s sweater", path: "/menSweater" },
-      { name: "men’s socks", path: "/menSocks" },
+      { name: "Men’s socks", path: "/menSocks" },
     ],
 
     photo:
@@ -116,7 +116,7 @@ export default function Navbar() {
       { name: "Ladies tank top", path: "/ladiesTankTop" },
       { name: "Ladies sweat shirt", path: "/ladiesSweatShirt" },
       { name: "Ladies sleepwear", path: "/ladiesSleepwear" },
-      { name: "ladies cap", path: "/ladiesCap" },
+      { name: "Ladies cap", path: "/ladiesCap" },
     ],
 
     collumn_2: [

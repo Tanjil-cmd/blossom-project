@@ -216,7 +216,7 @@ export default function AboutPage() {
                             </tr>
                             <tr>
                                 <td>Personal Mobile</td>
-                                <td>: +88 01631 328227</td>
+                                <td>: +88 01820640222</td>
                             </tr>
                             <tr>
                                 <td>Email address</td>
@@ -246,9 +246,9 @@ export default function AboutPage() {
 
                 {[
                     { number: "1+", label: "Years Experience" },
-                    { number: "500+", label: "Clients" },
-                    { number: "1000+", label: "Products" },
-                    { number: "2+", label: "Countries" },
+                    { number: "5+", label: "Clients" },
+                    { number: "100+", label: "Products" },
+                    { number: "5+", label: "Countries" },
                 ].map((item, i) => (
                     <motion.div
                         key={i}

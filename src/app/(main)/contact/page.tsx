@@ -78,7 +78,7 @@ export default function ContactPage() {
 
                         <div className="flex items-center gap-3">
                             <Mail className="text-black" />
-                            <p>tanjil.bd44@gmail.com</p>
+                            <p>tanjil@blossomtexbd.com</p>
                         </div>
 
                     </div>
