@@ -6,6 +6,8 @@ import { Menu, X, ChevronDown } from "lucide-react";
 import NestedNav from "./NestedNav";
 import Logo from "./Logo";
 import { usePathname } from "next/navigation";
+import nav_ladies from "@/assets/Ladies/ladies.jpg";
+import { StaticImageData } from "next/image";
 
 type NavItem = {
   name: string;
@@ -16,7 +18,7 @@ export type MegaNavData = {
   collumn_1: NavItem[];
   collumn_2: NavItem[];
   collumn_3: NavItem[];
-  photo: string;
+  photo: string | StaticImageData;
 };
 
 export default function Navbar() {
@@ -139,8 +141,7 @@ export default function Navbar() {
       { name: "Ladies bra", path: "/ladiesBra" },
     ],
 
-    photo:
-      "https://images.unsplash.com/photo-1520975916090-3105956dac38?q=80&w=1200&auto=format&fit=crop",
+    photo: nav_ladies,
   };
 
   const kidsData: MegaNavData = {

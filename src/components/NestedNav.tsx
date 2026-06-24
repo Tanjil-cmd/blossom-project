@@ -4,6 +4,7 @@ import Link from "next/link";
 import React from "react";
 import { MegaNavData } from "./Navbar";
 import { usePathname } from "next/navigation";
+import Image from "next/image";
 
 type navProps = {
   navData: MegaNavData;
@@ -72,10 +73,12 @@ const NestedNav = ({ navData }: navProps) => {
 
       {/* Image */}
       <div className="relative hidden md:block h-[300px] w-full overflow-hidden rounded-2xl">
-        <img
+        <Image
           src={navData.photo}
           alt="Collection"
           className="h-full w-full object-cover"
+          fill
+          unoptimized
         />
       </div>
     </div>
