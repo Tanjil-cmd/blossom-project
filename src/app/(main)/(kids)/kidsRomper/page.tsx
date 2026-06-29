@@ -21,7 +21,7 @@ const KidsRomper = () => {
     ]
     return (
         <div>
-            <h3 className='text-3xl font-bold text-center'>kids Romper</h3>
+            <h3 className='text-3xl font-bold text-center'>Kid's Romper</h3>
             <ShowImage photos={photos} />
         </div>
     );

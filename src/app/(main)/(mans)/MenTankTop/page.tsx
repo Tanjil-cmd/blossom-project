@@ -26,7 +26,7 @@ const MenTankTop = () => {
     ]
     return (
         <div>
-            <h3 className='text-3xl font-bold text-center'>Men Tank Top</h3>
+            <h3 className='text-3xl font-bold text-center'>Men's Tank Top</h3>
             <ShowImage photos={photos} />
         </div>
     );

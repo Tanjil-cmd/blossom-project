@@ -31,7 +31,7 @@ const ladiesCap = () => {
     ]
     return (
         <div>
-            <h3 className='text-3xl font-bold text-center'>Boys Polo Shirt</h3>
+            <h3 className='text-3xl font-bold text-center'>Ladies Cap</h3>
             <ShowImage photos={photos} />
         </div>
     );

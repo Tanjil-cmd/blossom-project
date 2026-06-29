@@ -51,7 +51,7 @@ const MenShirt = () => {
     ]
     return (
         <div>
-            <h3 className='text-3xl font-bold text-center'>men Shirt</h3>
+            <h3 className='text-3xl font-bold text-center'>Men's Shirt</h3>
             <ShowImage photos={photos} />
         </div>
     );

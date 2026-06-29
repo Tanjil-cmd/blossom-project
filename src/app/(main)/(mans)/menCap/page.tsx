@@ -31,7 +31,7 @@ const MenCap = () => {
     ]
     return (
         <div>
-            <h3 className='text-3xl font-bold text-center'>men Cap</h3>
+            <h3 className='text-3xl font-bold text-center'>Men's Cap</h3>
             <ShowImage photos={photos} />
         </div>
     );

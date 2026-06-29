@@ -26,7 +26,7 @@ const ladiesWorkwear = () => {
     ]
     return (
         <div>
-            <h3 className='text-3xl font-bold text-center'>Ladies Work wear</h3>
+            <h3 className='text-3xl font-bold text-center'>Ladies Work Wear</h3>
             <ShowImage photos={photos} />
         </div>
     );

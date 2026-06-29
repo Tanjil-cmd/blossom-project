@@ -31,7 +31,7 @@ const MenWorkwear = () => {
     ]
     return (
         <div>
-            <h3 className='text-3xl font-bold text-center'>men Work wear</h3>
+            <h3 className='text-3xl font-bold text-center'>Men's Work Wear</h3>
             <ShowImage photos={photos} />
         </div>
     );
