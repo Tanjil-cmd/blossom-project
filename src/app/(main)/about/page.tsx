@@ -220,7 +220,7 @@ export default function AboutPage() {
                             </tr>
                             <tr>
                                 <td>Email address</td>
-                                <td>: tanjil@blossomtexbd.com, info@blossomtexbd.com</td>
+                                <td>: tanjil@blossomtexbd.com, blossomtexbd@gmail.com</td>
                             </tr>
                         </tbody>
                     </table>
